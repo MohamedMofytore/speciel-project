@@ -1,0 +1,38 @@
+li{ display: inline;}
+li{padding: 50px;}
+
+h1{text-align: center;}
+a{text-decoration: none;}
+
+.new{
+    border: 5px solid rgb(193, 23, 23)
+} 
+
+.new{padding: 50px;
+    margin: 50px;
+}
+
+
+input{
+    padding: 10px;
+    margin: 30px;
+}
+
+#blah{
+
+     margin-right: 30px;
+
+}
+
+img{
+     width: 250px;
+height: 250px;
+display:block;
+margin :0 auto
+}
+#project1{
+display: flex;
+padding-top: 200px;
+}
+
+body{background-color: rgb(255, 236, 199);}
